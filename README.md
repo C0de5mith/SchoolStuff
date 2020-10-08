@@ -11,7 +11,7 @@ over the years but we got sidetracked with other topics and we never came up wit
 got home I figured out that the digits of our ages have been reversible six times so far. I also figured out
 that if we’re lucky it would happen again in a few years, and if we’re really lucky it would happen one
 more time after that. In other words, it would have happened 8 times over all. So the question is, how old
-am I now?" 
+am I now?" &nbsp;
 Write a program that searches for solutions to this problem.
 
 #### Solution: AgeProblem.kt
